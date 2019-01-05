@@ -1,4 +1,7 @@
-# timedivselect
+# 框选div获取时间插件
+
+这个插件目前可以使用，但是有些地方还不是很完善，有兴趣的可以提PR进行修改。目前可以实现简单框选获取数据功能。
+
 
 ## Project setup
 ```
@@ -24,6 +27,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
