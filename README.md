@@ -30,8 +30,6 @@ npm run test
 npm run lint
 ```
 
-[1]: https://github.com/confidence68/timeDivselect/blob/master/src/assets/showimg.gif
-
 
 ## 这个vue插件已经发布到npm，可以用npm安装使用
 
@@ -49,3 +47,10 @@ import timeDivSelect from 'timedivselect'
 github地址：https://github.com/confidence68/timeDivselect
 
 欢迎pr 和star
+
+
+
+
+
+
+[1]: https://raw.githubusercontent.com/confidence68/timeDivselect/master/src/assets/showimg.gif
