@@ -31,3 +31,21 @@ npm run lint
 ```
 
 [1]: https://github.com/confidence68/timeDivselect/blob/master/src/assets/showimg.gif
+
+
+## 这个vue插件已经发布到npm，可以用npm安装使用
+
+使用步骤如下：
+
+```
+npm install timedivselect -S
+
+import timeDivSelect from 'timedivselect'
+
+//调用方式请看：https://github.com/confidence68/timeDivselect/blob/master/src/App.vue
+
+```
+
+github地址：https://github.com/confidence68/timeDivselect
+
+欢迎pr 和star
