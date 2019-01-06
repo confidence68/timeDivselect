@@ -48,7 +48,9 @@ github地址：https://github.com/confidence68/timeDivselect
 
 欢迎pr 和star
 
+## 相关详细说明请看我的博客
 
+博客地址：https://www.haorooms.com/post/vue_timedivselect
 
 
 
